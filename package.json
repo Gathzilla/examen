@@ -1,0 +1,22 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "Dependencies for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gathzilla/examen.git"
+  },
+  "author": "Gerardo Tzoc",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Gathzilla/examen/issues"
+  },
+  "homepage": "https://github.com/Gathzilla/examen#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
